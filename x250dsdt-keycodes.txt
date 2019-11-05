@@ -1,0 +1,21 @@
+Scan codes:
+Fn e063=80
+F1 e020=4a
+F2 e02e=49
+F3 e030=48
+Ins e052=92
+
+EC Query:
+Fn_Esc => _Q74
+Fn+F1 => _Q43
+Fn+F2 => _Q43
+Fn+F3 => _Q43
+Fn+F4 => _Q6A
+Fn+F5 => _Q15
+Fn+F6 => _Q14
+Fn+F7 => _Q16
+Fn+F8 => _Q64
+Fn+F9 => _Q66
+Fn+F10 => _Q67
+Fn+F11 => _Q68
+Fn+F12 => _Q69
