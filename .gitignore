@@ -2,12 +2,6 @@
 # Repository Ignores
 # ===========================
 EFI/APPLE
-EFI/CLOVER/config.plist
-EFI/CLOVER/config-sample*.plist
-EFI/CLOVER/ACPI/WINDOWS
-EFI/CLOVER/ACPI/origin/*
-EFI/CLOVER/ACPI/patched/*.dsl
-EFI/CLOVER/kext/off/*
 
 # Vim backup
 README.md~
